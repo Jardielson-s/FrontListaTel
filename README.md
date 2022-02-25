@@ -11,7 +11,11 @@
 
 ### Rotas da aplição
 
-![rota atualizar](https://github.com/Jardielson-s/ListaTelef-nica/blob/main/image/rotaAtualizar.png)
+![pagina criar](https://github.com/Jardielson-s/FrontListaTel/blob/main/Images/aplica%C3%A7%C3%A3oCriar.png)
+
+![pagina listarCont](https://github.com/Jardielson-s/FrontListaTel/blob/main/Images/aplica%C3%A7%C3%A3oListar.png)
+
+![lista listarTel](https://github.com/Jardielson-s/FrontListaTel/blob/main/Images/aplica%C3%A7%C3%A3oListarTel.png)
 
 
 
